@@ -29,7 +29,7 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/lato_r"
                 android:padding="18dp"
-                android:text="You Owe Me 2"
+                android:text="You Owe Me 2345"
                 android:textAlignment="center"
                 android:textColor="@color/purple"
                 android:textSize="20sp"
